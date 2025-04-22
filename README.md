@@ -15,18 +15,23 @@ Built with Python and powered by OpenAI, this tool lets you craft beautiful, hig
 
 🚀 Getting Started
 1️⃣ Clone the Repository
+
 git clone https://github.com/miwaraileanu/QRCODE.git
+
 cd ai-qr-generator
 
 2️⃣ Install the Dependencies
+
 pip install openai qrcode[pil] pillow requests
 
 3️⃣ Add Your OpenAI API Key
+
 Open the script and paste your API key into this line:
 openai.api_key = "your-api-key-here"
 🔐 Tip: For better security, use a .env file or config.json to store your key.
 
 4️⃣ Run the App
+
 python ai_qr_generator.py
 
 🧪 Example
