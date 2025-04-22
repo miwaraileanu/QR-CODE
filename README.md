@@ -15,7 +15,7 @@ Built with Python and powered by OpenAI, this tool lets you craft beautiful, hig
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-qr-generator.git
+git clone https://github.com/miwaraileanu/QRCODE.git
 cd ai-qr-generator
 
 2️⃣ Install the Dependencies
