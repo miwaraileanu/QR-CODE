@@ -2,6 +2,7 @@
 Create stunning, scannable QR codes — with AI-generated images right in the center!
 Built with Python and powered by OpenAI, this tool lets you craft beautiful, high-quality QR codes directly from your terminal.
 
+
 ✨ Features
 🧠 AI-Powered Art — Enter a text prompt and generate an image using DALL·E
 
