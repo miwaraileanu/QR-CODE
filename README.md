@@ -15,6 +15,7 @@ Built with Python and powered by OpenAI, this tool lets you craft beautiful, hig
 🔒 Runs Locally — A lightweight, easy-to-use Python script
 
 🚀 Getting Started
+
 1️⃣ Clone the Repository
 
 git clone https://github.com/miwaraileanu/QRCODE.git
