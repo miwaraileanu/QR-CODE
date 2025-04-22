@@ -50,7 +50,7 @@ def generate_custom_qr(data: str, logo_path: str, qr_color="#FFD700", bg_color="
         print(f"Error adding to logo: {e}")
 
     img.save(output)
-    print(f"✅ QR-Code SAved: {output}")
+    print(f" QR-Code SAved: {output}")
 
 def main():
     print("=== AI QR Code Generator ===\n")
